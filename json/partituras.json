@@ -8,20 +8,12 @@
       "audio_da_partitura": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/a-alegria/A-alegria.mp3",
       "instrumentos": [
         { 
-          "nome": "Violino 1",
-          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/a-alegria/A-alegria-Violino_1.pdf"
+          "nome": "PARTITURA MESTRE E PARTES",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/a-alegria/A-alegria-Partitura_e_Partes.pdf"
         },
         {
-          "nome": "Violino 2",
-          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/a-alegria/A-alegria-Violino_2.pdf"
-        },
-        {
-          "nome": "Viola",
-          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/a-alegria/A-alegria-Viola.pdf"
-        },
-        {
-          "nome": "Violoncelo",
-          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/a-alegria/A-alegria-Violoncelo.pdf"
+          "nome": "ARQUIVO .MSCZ",
+          "pdfUrl": "nuhttps://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/a-alegria/A-alegria.msczll"
         }
       ]
     },
@@ -32,7 +24,7 @@
       "tipo": "especial",
       "audio_da_partitura": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te%20Encontrar.mp3",
       "instrumentos": [
-        { 
+        {
           "nome": "Violino 1",
           "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Violino_1.pdf"
         },
@@ -45,8 +37,92 @@
           "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Viola.pdf"
         },
         {
-          "nome": "Violoncelo",
-          "pdfUrl": "null"
+          "nome": "Clarinete 1",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Clarinete_em_Bb_1.pdf"
+        },
+        {
+          "nome": "Clarinete 2",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Clarinete_em_Bb_2.pdf"
+        },
+        {
+          "nome": "Saxofone alto 1",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Alto_Saxophone_1.pdf"
+        },
+        {
+          "nome": "Saxofone alto 2",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Alto_Saxophone_2.pdf"
+        },
+        {
+          "nome": "Saxofone Tenor 1",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Saxofone_Tenor_1.pdf"
+        },
+        {
+          "nome": "Saxofone Tenor 2",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Saxofone_Tenor_2.pdf"
+        },
+        {
+          "nome": "Saxofone Barítono",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Saxofone_Bar%C3%ADtono.pdf"
+        },
+        {
+          "nome": "Trompete Bb 1",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Trompete_Bb_1.pdf"
+        },
+        {
+          "nome": "Trompete Bb 2",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Trompete_Bb_2.pdf"
+        },
+        {
+          "nome": "Trompete Bb 3",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Trompete_Bb_3.pdf"
+        },
+        {
+          "nome": "Trompete Bb 4",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Trompete_Bb_4.pdf"
+        },
+        {
+          "nome": "Trompete C 1",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Trompete_C_1.pdf"
+        },
+        {
+          "nome": "Trompete C 2",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Trompete_C_2.pdf"
+        },
+        {
+          "nome": "Trombone 1",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Trombone_1.pdf"
+        },
+        {
+          "nome": "Trombone 2",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Trombone_2.pdf"
+        },
+        {
+          "nome": "Trombone 3",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Trombone_3.pdf"
+        },
+        {
+          "nome": "Trombone 4 / Tuba",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Trombone_Tuba.pdf"
+        },
+        {
+          "nome": "Piano",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Piano.pdf"
+        },
+        {
+          "nome": "Contrabaixo",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Baixo_elétrico.pdf"
+        },
+        {
+          "nome": "Bateria",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar-Large_Drum_Kit.pdf"
+        },
+        {
+          "nome": "PARTITURA MESTRE",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te-Encontrar.pdf"
+        },
+        {
+          "nome": "ARQUIVO .MSCZ",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/Te-encontrar/Te%20Encontrar.mscz"
         }
       ]
     },
@@ -58,20 +134,64 @@
       "audio_da_partitura": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani.mp3",
       "instrumentos": [
         {
-          "nome": "Violino 1",
-          "pdfUrl": "null"
-        },
-        {
-          "nome": "Violino 2",
-          "pdfUrl": "null"
+          "nome": "Violino",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Violino.pdf"
         },
         {
           "nome": "Viola",
-          "pdfUrl": "null"
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Viola.pdf"
         },
         {
-          "nome": "Violoncelo",
-          "pdfUrl": "null"
+          "nome": "Clarinete 1",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Clarinete_em_Bb.pdf"
+        },
+        {
+          "nome": "Clarinete 2",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Clarinete_em_Bb_2.pdf"
+        },
+        {
+          "nome": "Saxofone alto",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Alto_Saxophone.pdf"
+        },
+        {
+          "nome": "Saxofone Tenor",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Saxofone_Tenor.pdf"
+        },
+        {
+          "nome": "Trompa",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Trompa_de_Viena.pdf"
+        },
+        {
+          "nome": "Trompete Bb",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Trompete_em_Bb.pdf"
+        },
+        {
+          "nome": "Trompete C",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Trompete_em_D%C3%B3.pdf"
+        },
+        {
+          "nome": "Trombone",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Trombone.pdf"
+        },
+        {
+          "nome": "Piano",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Piano.pdf"
+        },
+        {
+          "nome": "Contrabaixo",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Baixo_el%C3%A9trico.pdf"
+        },
+        {
+          "nome": "Bateria",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani-Drum_Kit.pdf"
+        },
+        {
+          "nome": "PARTITURA MESTRE",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani.pdf"
+        },
+        {
+          "nome": "ARQUIVO .MSCZ",
+          "pdfUrl": "https://raw.githubusercontent.com/EcosDeSiao/hinos/main/hinos/getsemani/Gets%C3%AAmani.mscz"
         }
       ]
     }
